@@ -146,13 +146,7 @@ Here, you'll find a curated showcase of my skills, research, and tools focused o
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 </p>
 
-### 🤖 Other Expertise
-<p>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Parallel_Computing-MPI-informational?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML/CSS-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
+
 
 ---
 
