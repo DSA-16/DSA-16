@@ -80,7 +80,7 @@ Here, you'll find a curated showcase of my skills, research, and tools focused o
 - Developed a lightweight Python keylogger that captures and logs keystrokes in plain text.
 - Stores timestamped entries securely in %APPDATA%\KeyLogs, with easy-to-read formatting.
 - Built for educational use — highlights core concepts in input capture, file I/O, and scripting.
-[📁 View Code](https://drive.google.com/drive/folders/1QO_Gd03XRSkgBke29DRqzvRIDC5GMFGF)
+📂 [View Code](https://github.com/DSA-16/projects/blob/main/keylogger/clean_keylogger.py)
 
 ### 🧬 Epidemiology Simulation – Java | Agent-Based Modeling
 
