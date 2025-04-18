@@ -82,6 +82,13 @@ Here, you'll find a curated showcase of my skills, research, and tools focused o
 - Built for educational use — highlights core concepts in input capture, file I/O, and scripting.
 📂 [View Code](https://github.com/DSA-16/Projects/blob/main/Keylogger/clean_keylogger.py)
 
+### 🔍 NAS Message Fuzzer | (5G Standalone)
+
+- Developed a protocol-aware fuzzing tool to test NAS message handling in Open5GS AMF using srsRAN 5G (ZMQ) as the gNB.
+- Injected mutated NAS messages over SCTP directly into the AMF, triggering controlled decoding errors and analyzing crash patterns.
+- Built an automated fuzzing workflow in Python with real-time log monitoring and anomaly detection within a custom 5G standalone lab setup.
+[📁 View Code](https://drive.google.com/drive/folders/13_F2vEKe45a2vgv8vwLQBJI3cVmTmyEK)
+
 ### 🧬 Epidemiology Simulation – Java | Agent-Based Modeling
 
 - Built a tool that simulates how diseases spread in different types of social networks.
